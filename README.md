@@ -1,1 +1,1 @@
-# Speaker-reconition
+speaker-recognition
